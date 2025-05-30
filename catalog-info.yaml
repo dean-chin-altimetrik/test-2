@@ -10,7 +10,7 @@ metadata:
   annotations:
     # github.com/project-slug: dean-chin-altimetrik/test-2
     backstage.io/source-location: url:https://github.com/dean-chin-altimetrik/test-2/tree/
-    backstage.io/techdocs-ref: dir:.
+    backstage.io/techdocs-ref: url:https://github.com/dean-chin-altimetrik/test-2/tree/main/docs
     devbox.io/enabled: "true"
 spec:
   type: service
